@@ -1,0 +1,1 @@
+import React from 'react'; export default function Login(){ return <div><h2>Admin Login (OTP/email flow to backend)</h2></div>; }
